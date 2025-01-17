@@ -108,3 +108,6 @@ Wonky thing that Boom pointed out, if you exceed 128 on the ranges it looks like
 ![image](https://github.com/user-attachments/assets/7e61b116-8f2a-46d8-b089-d4e058391d09)
 
 
+TODO: Design and 3D Print a Case for it so there's not just a random board hanging from a cable
+
+TODO: I'd love to see this get integrated into an open source mobo so you could simply configure your controller like you would configure a Phob.
