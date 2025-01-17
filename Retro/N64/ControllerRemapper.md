@@ -16,9 +16,13 @@ It is an in-line controller remapper and gate configuration tool that utilizes a
 
 ## Things you need:
 1 x Raspberry Pi Pico
+
 1 x N64 Controller Extension Cable
+
 1 x Micro USB Cable
+
 1 x Soldering Capability 
+
 
 ![image](https://github.com/user-attachments/assets/41d866d8-38c4-4481-b22a-453fc85ccc99)
 
