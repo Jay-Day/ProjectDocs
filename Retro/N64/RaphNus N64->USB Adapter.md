@@ -16,3 +16,5 @@ flashing should happen automatically
 
 USB-C Pro Micro
 
+
+```sudo avrdude -v -p atmega32u4 -c avr109 -b 115200 -P /dev/ttyACM0 -U "flash:w:/home/jd/Desktop/gcn64usb.hex"```
