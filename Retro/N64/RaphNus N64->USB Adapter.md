@@ -14,6 +14,6 @@ P2    -  RXI
 
 unplug and replug
 
-check in ./gcn64ctl_gui if it shows the adapter type
+check ```./gcn64ctl_gui``` if it shows the adapter type
 
 ![image](https://github.com/user-attachments/assets/29dd2933-ae6a-4bbd-b57b-337c7a29ec5d)
